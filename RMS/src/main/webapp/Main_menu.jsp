@@ -41,7 +41,7 @@
             <ul>
                 <li><a href="menu.jsp">Main Menu</a></li>
                 <li><a href="makeorder.jsp">Make Order</a></li>
-                <button><a href="logout.jsp">Log Out</a></button>
+                <button><a href="index.jsp">Log Out</a></button>
             </ul>
         </div>
     </div>
